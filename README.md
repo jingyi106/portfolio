@@ -9,7 +9,9 @@ Pursuing a Master’s degree in business Intelligence and Data Analytics in Carn
 Data visualization software, Color theory, Design, Interpreting and presenting data, Data related presentation 
 
 # Portfolio
-## King County Demo Data
+## Data Visualization
+### King County Demo Data
 <div class="flourish-embed flourish-chart" data-src="visualisation/11109432"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[https://github.com/jingyi106/911-Call-Analysis.git](https://github.com/jingyi106/911-Call-Analysis.git)
+## Data Science
+[911 Calls Analysis](https://github.com/jingyi106/911-Call-Analysis.git)
