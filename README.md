@@ -1,6 +1,6 @@
 # Hi, this is Jingyi
 
-[*Linkedin*](https://www.linkedin.com/in/jingyiran/) &nbsp;&nbsp;&nbsp;&nbsp;  [*Email：jingyiran1@gmail.com*](jingyiran1@gmail.com)
+[*Linkedin*](https://www.linkedin.com/in/jingyiran/) &nbsp;&nbsp;&nbsp;&nbsp;  [*Email：jingyiran1@gmail.com*]<jingyiran1@gmail.com>
 
 # About me
 As an engineering student with a passion towards business and social science, I am motivated to explore data driven business intelligence in the field of marketing, healthcare, IT.
