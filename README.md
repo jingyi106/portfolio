@@ -14,4 +14,8 @@ Data visualization software, Color theory, Design, Interpreting and presenting d
 <div class="flourish-embed flourish-chart" data-src="visualisation/11109432"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Data Science
-[911 Calls Analysis](https://github.com/jingyi106/911-Call-Analysis.git)
+[911 Calls Analysis](https://github.com/jingyi106/911-Call-Analysis/blob/main/Finished_911%20Calls%20Data%20Analytics.ipynb)
+
+[Regression Analysis for Customer Behavior](https://github.com/jingyi106/Regression-Analysis-for-Customer-Behavior.git)
+
+
