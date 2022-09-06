@@ -16,6 +16,10 @@ Data visualization software, Color theory, Design, Interpreting and presenting d
 ## Data Science
 [911 Calls Analysis](https://github.com/jingyi106/911-Call-Analysis/blob/main/Finished_911%20Calls%20Data%20Analytics.ipynb)
 
-[Regression Analysis for Customer Behavior](https://github.com/jingyi106/Regression-Analysis-for-Customer-Behavior.git)
+[Regression Analysis for Customer Behavior](https://github.com/jingyi106/Regression-Analysis-for-Customer Behavior/blob/main/Regression%20Analysis%20for%20Customer%20Behavior%20Project.ipynb)
+
+[Advertisement Click Probability Prediction](https://github.com/jingyi106/Advertisement-Click-Probability-Prediction/blob/main/Advertisement%20Click%20Prediction.ipynb)
+
+
 
 
