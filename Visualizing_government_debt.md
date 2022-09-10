@@ -1,6 +1,9 @@
 # Government Debt Visualization
+
+The data is from [OECD Data](https://data.oecd.org/gga/general-government-debt.htm), which represents the Debt-to-GDP ratio of different countries from 1995 to 2021. Scatter plot, line chart and bar chart are used to visualize the dataset. 
+
 ## 1. Scatter Plot filtered by year
-  You can move the slider to choose a year you are interested in. The x-axis is the name of the country, and the y-axis is Debt-to-GDP ratio. Darker dots represents higer ratio.
+  You can move the slider to choose a year you are interested in. The x-axis is the name of the country, and the y-axis is Debt-to-GDP ratio. Darker dots represents higer ratio. 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/11147981"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
