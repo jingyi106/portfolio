@@ -10,12 +10,8 @@ Pursuing a Master’s degree in business Intelligence and Data Analytics in Carn
 # What I hope to learn
 Data visualization software, Color theory, Design, Interpreting and presenting data, Data related presentation 
 
-# Portfolio
 ## Data Visualization
-### King County Demo Data
-<iframe src="https://data.oecd.org/chart/6Odb" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Odb" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
-
-[Visualizing government debt](/Visualizing_government_debt.md)
+### [Government Debt Visualization](/Visualizing_government_debt.md)
 
 ## Data Science
 [911 Calls Analysis](https://github.com/jingyi106/911-Call-Analysis/blob/main/Finished_911%20Calls%20Data%20Analytics.ipynb)
