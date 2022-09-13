@@ -12,6 +12,7 @@ Data visualization software, Color theory, Design, Interpreting and presenting d
 
 ## Data Visualization
 ### [Government Debt Visualization](/Visualizing_government_debt.md)
+### [mediatrust](/mediatrust.md)
 
 ## Data Science
 [911 Calls Analysis](https://github.com/jingyi106/911-Call-Analysis/blob/main/Finished_911%20Calls%20Data%20Analytics.ipynb)
