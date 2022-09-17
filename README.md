@@ -11,6 +11,7 @@ Pursuing a Master’s degree in business Intelligence and Data Analytics in Carn
 Data visualization software, Color theory, Design, Interpreting and presenting data, Data related presentation 
 
 ## Data Visualization
+### Productivity Change in Manufacturing and Mining Industries
 ### [Government Debt Visualization](/Visualizing_government_debt.md)
 ### [mediatrust](/mediatrust.md)
 
