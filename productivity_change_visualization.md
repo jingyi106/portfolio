@@ -6,7 +6,7 @@ With news released chars https://www.bls.gov/charts/productivity-mining-manufact
 
 The charts focus on two parts: productivity percent change in 2021 and productivity percent change in a long-term. They included 22 sectors in the visualizations. There are two visualizations shown in the news released charts
 
-<img width="228" alt="image" src="https://user-images.githubusercontent.com/100049171/190945305-43ba9c6c-fc61-4869-a325-c76ba27cbd36.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/100049171/190945305-43ba9c6c-fc61-4869-a325-c76ba27cbd36.png">
 Figure1: productivity 1-year percent change in 2021![image](https://user-images.githubusercontent.com/100049171/190945316-918f4dec-530a-4787-b925-4d5e1f11108d.png)
 
 
