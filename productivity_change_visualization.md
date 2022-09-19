@@ -2,6 +2,7 @@
 
 ## Part 1: Visualization Background
 On April 28, 2022, The U.S. Bureau of Labor Statistics released a news report regarding productivity and cost in manufacturing and mining industries in 2021 [https://www.bls.gov/news.release/pdf/prin.pdf](https://www.bls.gov/news.release/pdf/prin.pdf)
+
 With news released chars [https://www.bls.gov/charts/productivity-mining-manufacturing/percent-change-in-productivity.htm#](https://www.bls.gov/charts/productivity-mining-manufacturing/percent-change-in-productivity.htm)
 
 The charts focus on two parts: productivity percent change in 2021 and productivity percent change in a long-term. They included 22 sectors in the visualizations. There are two visualizations shown in the news released charts
