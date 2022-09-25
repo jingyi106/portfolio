@@ -11,7 +11,7 @@ The problem of supporting the elderly is serious with the increase in the elderl
 
 
 ## Sketches
-Visualization 1: Line charts to compare the change of aging population proportion among 5 counties with the most serious aging population problem![image](https://user-images.githubusercontent.com/100049171/192169117-02d58e95-61f7-4a36-9453-dec7bf57eeda.png)
+Visualization 1: Line charts to compare the change of aging population proportion among 5 counties with the most serious aging population problem
 
 ![1](https://user-images.githubusercontent.com/100049171/192169170-30128a4e-dc63-4df9-b98c-6c94d1e8140e.jpeg)
 
