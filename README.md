@@ -11,6 +11,7 @@ Pursuing a Master’s degree in business Intelligence and Data Analytics in Carn
 Data visualization software, Color theory, Design, Interpreting and presenting data, Data related presentation 
 
 ## Data Visualization
+### [Population Aging](/project_population_aging_jingyi.md)
 ### [Productivity Change in Manufacturing and Mining Industries](/productivity_change_visualization.md)
 ### [Government Debt Visualization](/Visualizing_government_debt.md)
 ### [mediatrust](/mediatrust.md)
