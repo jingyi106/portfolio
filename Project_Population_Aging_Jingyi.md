@@ -21,7 +21,15 @@ Visualization 2: Sorted bar charts to compare the aging population proportion in
 
 Visualization 3: With a world map background, each circle represents the share of the dependent population of a country. The larger the circle is, the more serious supporting the elderly will be.
 
-![3](https://user-images.githubusercontent.com/100049171/192169240-3a3aa015-f3e7-468d-ae4d-53af2c34af8c.jpeg)
+<div class='tableauPlaceholder' id='viz1664920104877' style='position: relative'><noscript><a href='#'><img alt='Top 50 Countries With the Largest Percentage of Older Adults ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Map-Top50CountrieswiththelargestPercentageofOlderAdults&#47;map&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Map-Top50CountrieswiththelargestPercentageofOlderAdults&#47;map' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Map-Top50CountrieswiththelargestPercentageofOlderAdults&#47;map&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+<script type='text/javascript'>
+ var divElement = document.getElementById('viz1664920104877'); 
+ var vizElement = divElement.getElementsByTagName('object')[0];    
+ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+ var scriptElement = document.createElement('script');
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 
 Visualization 4: Comparison between counties with the most serious and least serious supporting the elderly problem.
