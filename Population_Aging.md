@@ -1,4 +1,6 @@
-The global population is aging. The potential takeaways of this project will be:
+The global population is aging. I will walk through some visualizations to tell a story about population aging.
+
+The potential takeaways of this project will be:
 
 a.	How serious the population aging condition is nowadays and How serious it will be in the future.
 
