@@ -151,7 +151,7 @@ It’s pretty hard for them to understand some charts such as tree maps, but aft
 
 ### Persona 4: student majoring in public policy
 
-They think the call-to-actions are reasonable. They also mentioned the immigration policy could be a potential action in addition to improving the willingness of women to have a baby. Countries with low fertility rates, they can attract immigrants to address the issue of population aging. 
+The audience of this project is policy makers, so it’s helpful to have someone who are familiar with policy making have a look. I mainly want to know from them whether those call-to-actions are reasonable. 
 
 
 ## 3.	Interview Script
