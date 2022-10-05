@@ -72,3 +72,5 @@ Which countries have very high or low fertility rates? Do they face the problem 
 
 Half of the top 10 counties with the lowest fertility rates are European countris, and another half are belong to Asia of North America. Most counties in the top 10 country list with highest feritlity rates are Third World Nation. 
 
+# Reasons behind the low fertility rates
+<img width="1052" alt="Screen Shot 2022-10-04 at 8 52 09 PM" src="https://user-images.githubusercontent.com/100049171/193956335-b16ffda6-ccf3-478d-9599-47328c6e3fc5.png">
