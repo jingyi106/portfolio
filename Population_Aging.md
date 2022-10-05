@@ -103,7 +103,7 @@ Here are some potential policies to address the issue:
 
 4. Paid Time Off for spouse of women who are going to give birth to a baby to make sure both puerpera and children can be good taken care off
 
-5. Formulate relevant policies to ensure a stable career development of women with children, for example, when facing the lay-off condition, women with a birth plan should be a consideration for whether to be laid off. 
+5. Formulate relevant policies to ensure a stable career development of women with children, for example, when facing the lay-off condition, women with a birth plan shouldn't be a consideration for whether to be laid off. 
 
 
 # Reference citation and Data source
