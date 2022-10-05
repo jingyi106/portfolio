@@ -106,15 +106,15 @@ Here are some potential policies to address the issue:
 5. Formulate relevant policies to ensure a stable career development of women with children, for example, when facing the lay-off condition, women with a birth plan should be a consideration for whether to be laid off. 
 
 
-# Reference and Data source
-[Population Reference Bureau](https://www.prb.org/resources/countries-with-the-oldest-populations-in-the-world/)
+# Reference citation and Data source
+[Population Reference Bureau: https://www.prb.org/resources/countries-with-the-oldest-populations-in-the-world/](https://www.prb.org/resources/countries-with-the-oldest-populations-in-the-world/)
 
 
-[World Population Review](https://worldpopulationreview.com/country-rankings/total-fertility-rate)
+[World Population Review: https://worldpopulationreview.com/country-rankings/total-fertility-rat](https://worldpopulationreview.com/country-rankings/total-fertility-rate)
 
-[United Nations](https://www.un.org/en/global-issues/ageing#:~:text=Trends%20in%20Population%20Ageing&text=According%20to%20data%20from%20World,be%20aged%2065%20or%20over.)
+[United Nations: https://www.un.org/en/global-issues/ageing#:~:text=Trends%20in%20Population%20Ageing&text=According%20to%20data%20from%20World,be%20aged%2065%20or%20over.](https://www.un.org/en/global-issues/ageing#:~:text=Trends%20in%20Population%20Ageing&text=According%20to%20data%20from%20World,be%20aged%2065%20or%20over.)
 
-[OECD](https://data.oecd.org/pop/population.htm#indicator-chart)
+[OECD: https://data.oecd.org/pop/population.htm#indicator-chart](https://data.oecd.org/pop/population.htm#indicator-chart)
 
 [New York Times - Consult Survey of 1858 men and women about why aren't having children]
 
@@ -123,12 +123,12 @@ Here are some potential policies to address the issue:
 
 ## 1.	Target audience: 
 
-This project is doing research about population aging, finding demographic characteristics of regions with serious population aging problem, figuring out reasons behind more serious population aging and show suggestions for call-to-actions” to address the issue of population aging. 
-The audience are policy makers who are responsible for addressing the issue of aging. I hope that by walking through my visualizations, they can have a sense of 
+This project is researching population aging, finding demographic characteristics of regions with serious population aging problems, figuring out reasons behind more serious population aging, and showing suggestions for call-to-actions” to address the issue of population aging. 
+The audience is policymakers who are responsible for addressing the issue of aging. I hope that by walking through my visualizations, they can have those takeaways 
 
 a.	How serious the population aging condition is nowadays and How serious it will be in the future.
 
-b.	Which region have relative more serious population aging problems? What are the demographic characteristics?  (My audience includes officials working in global non-for-profit organizations such as UN, so it’s necessary for them to know about the demographic characteristics in global level)
+b.	Which regions have relatively more serious population aging problems? What are the demographic characteristics?  (My audience includes officials working in global non-for-profit organizations such as the UN, so they must know about the demographic characteristics at global level)
 
 c.	What’s the main reason behind the population aging and what they can do to address the issue?
 
@@ -138,15 +138,20 @@ I created 4 personas:
 
 ### Persona 1: women who have a birth plan recently
 
-The call-to-action of the story are suggestions for formulating policies to increase the willing of women to give births, so women who have a birth plan are very related to the topic. I want to know if the call-to actions are reasonable on their perspective.
+The call-to-action of the story is suggestions for formulating policies to increase the willingness of women to give birth, so women who have a birth plan are very related to the topic. I want to know if the call-to-actions are reasonable from their perspective.
 
-### Persona 2: men who have spouse
+### Persona 2: men who have a spouse
 
-Fertility rates are not related to women, but also men. It would be interesting to know their opinion about population aging and low fertility rates nowadays. If possible, I want to know their suggestions for addressing the issue of low fertility rates.
+Fertility rates are not only relevant to women, but also to men. It would be interesting to know their opinion about population aging and low fertility rates nowadays. If possible, I want to know their suggestions for addressing the issue of low fertility rates.
 
 ### Persona 3: elderly (65+) 
 
+It’s pretty hard for them to understand some charts such as tree maps, but after explaining, they could understand the main ideas. They said that the most significant change is women are less willing to give birth nowadays while 40 years ago, women are much more willing to have children. Also, they mentioned that pricing rising is very significant in the past 40 years. 
+
+
 ### Persona 4: student majoring in public policy
+
+They think the call-to-actions are reasonable. They also mentioned the immigration policy could be a potential action in addition to improving the willingness of women to have a baby. Countries with low fertility rates, they can attract immigrants to address the issue of population aging. 
 
 
 ## 3.	Interview Script
@@ -161,10 +166,39 @@ d.	Do you have any other call-to-actions that can be added to the project?
 
 e.	Do you have any suggestions for improvement in general? 
 
-## 4. the findings from the interview
+
+## 4.	The findings from the interview:
 
 ### Persona 1: women who have a birth plan recently
 
-They are most impressed by the tree plot: reasons for why women don’t want to give births? They said that they used to have similar concerns. As for the call-to-actions, they think they are reasonable. To make improvement, they suggested to have some policies related to “Children” in addition to “Adult”, for example, lower the tuition of children, especially in developing countries to reduce the financial pressure of adults
+They are most impressed by the tree plot: reasons why women don’t want to give birth? They said that they used to have similar concerns. As for the call-to-actions, they think they are reasonable. To improve, they suggested having some policies related to “Children” in addition to “Adult”, for example, lowering the tuition of children, especially in developing countries to reduce the financial pressure on adults
+
+### Persona 2: men who have a spouse
+
+They are most impressed by the comparison between counties with the highest fertility rates and lowest fertility rates because they think it matches the previous visualization to connect population aging with fertility rates. They also think the call-to-actions are reasonable. From their perspective, having children is the decision made by a family, not a woman. In addition, they suggested including immigration policy in the call-to-actions part. 
+
+### Persona3: elderly (65+) 
+
+It’s pretty hard for them to understand some charts such as tree maps, but after explaining, they could understand the main ideas. They said that the most significant change is women are less willing to give birth nowadays while 40 years ago, women are much more willing to have children. Also, they mentioned that pricing rising is very significant in the past 40 years. 
+
+### Persona4: student majoring in public policy
+
+They think the call-to-actions are reasonable. They also mentioned the immigration policy could be a potential action in addition to improving the willingness of women to have a baby. Countries with low fertility rates, they can attract immigrants to address the issue of population aging. 
+
+
+## 5.	Changes to make for the project
+
+a.	Reconsider the necessity of the sorted bar charts to rank the top 50 counties with the highest elderly percentage. 
+
+b.	Consider immigration policy as one potential call-to-actions. If possible, do some research
+
+c.	Consider some policies related to children in addition to adults that could boost the willingness of people to have children nowadays
+
+d.	Narrow down the scope of call-to-actions from the global level to the country level. Focus the attention on Europe and North America, because population aging is serious in those regions. 
+
+e.	Integrate the work into shorthand and add some backgrounds
+
+
+
 
 
