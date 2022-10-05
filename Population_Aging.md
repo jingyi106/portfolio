@@ -72,5 +72,27 @@ Which countries have very high or low fertility rates? Do they face the problem 
 
 Half of the top 10 counties with the lowest fertility rates are European countris, and another half are belong to Asia of North America. Most counties in the top 10 country list with highest feritlity rates are Third World Nation. 
 
-# Reasons behind the low fertility rates
+# Top 10 reasons behind "Why women don't want to have kids?" 
 <img width="1052" alt="Screen Shot 2022-10-04 at 8 52 09 PM" src="https://user-images.githubusercontent.com/100049171/193956335-b16ffda6-ccf3-478d-9599-47328c6e3fc5.png">
+
+Those reasons can be categorized into 3 parts: Work/Career development concerns, Income/Cost of raising kids, Limited leisure time. 
+
+# Call-On Action
+(In the final presentation, visualizations will be presented to show the call-on action)
+For policy makers who are responsible for addressing the issue of population aging, it's important to prevent the continuing decrease of fertility rates. Based on main reason behind low fertility rates, policies related to stable career development, better employee benefits, longer paid maternity leave and parental leave can be formulated according to the situation of different regions. 
+Here are some potential policies to address the issue:
+
+1. Increase the employee benefits for women who have children to reduce the financial pressure of raising children
+
+2. Longer paid maternity leave for women who have children to provide them enough leisure time
+
+3. Longer paid parental leave for women who have children to provide them enough leisure time
+
+4. Paid Time Off for spouse of women who are going to give birth to a baby to make sure both puerpera and children can be good taken care off
+
+5. Formulate relevant policies to ensure a stable career development of women with children, for example, when facing the lay-off condition, women with a birth plan should be a consideration for whether to be laid off. 
+
+
+
+
+
