@@ -1,3 +1,14 @@
+The global population is aging. The potential takeaways of this project will be:
+
+a.	How serious the population aging condition is nowadays and How serious it will be in the future.
+
+b.	Which region have relative more serious population aging problems? What are the demographic characteristics? 
+
+c.	What’s the main reason behind the population aging and what they can do to address the issue?
+
+
+
+
 ### How serious the population aging is now and how serious it will be in the future?
 According to the annual report of United Nations: 
 
