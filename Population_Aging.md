@@ -106,6 +106,17 @@ Here are some potential policies to address the issue:
 5. Formulate relevant policies to ensure a stable career development of women with children, for example, when facing the lay-off condition, women with a birth plan should be a consideration for whether to be laid off. 
 
 
+# Reference and Data source
+[Population Reference Bureau](https://www.prb.org/resources/countries-with-the-oldest-populations-in-the-world/)
+
+
+[World Population Review](https://worldpopulationreview.com/country-rankings/total-fertility-rate)
+
+[United Nations](https://www.un.org/en/global-issues/ageing#:~:text=Trends%20in%20Population%20Ageing&text=According%20to%20data%20from%20World,be%20aged%2065%20or%20over.)
+
+[OECD](https://data.oecd.org/pop/population.htm#indicator-chart)
+
+[New York Times - Consult Survey of 1858 men and women about why aren't having children]
 
 
 # User Research Protocol:
