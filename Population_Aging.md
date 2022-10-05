@@ -4,7 +4,7 @@ The potential takeaways of this project will be:
 
 a.	How serious the population aging condition is nowadays and How serious it will be in the future.
 
-b.	Which region have relative more serious population aging problems? What are the demographic characteristics? 
+b.	Which region have relatively more serious population aging problems? What are the demographic characteristics? 
 
 c.	What’s the main reason behind the population aging and what they can do to address the issue?
 
