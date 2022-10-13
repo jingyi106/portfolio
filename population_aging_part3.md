@@ -107,8 +107,8 @@ Since there is no clear storyline in part1, creating the story is the focus in p
 a. How serious the population aging condition is nowadays and How serious it will be in the future? <br />
 b. Which region have relatively more serious population aging problems? What are the demographic characteristics?<br />
 c. What’s the main reason behind the population aging and what actions can be done to address the issue?<br />
-I created some visualizations according to those ideas, and provide call-to-actions to policymakers. <br />
-In addition, I conducted user research in this part. 5 personas: women who have had a birth plan recently, men who have a spouse, elderly (65+), and students majoring in public policy. By interviewing with them, I got suggestions for addressing the issue of population aging from their perspective. 
+I created some visualizations according to those ideas, and provided call-to-actions to policymakers. <br />
+In addition, I conducted user research in this part. 5 personas: women who have had a birth plan recently, men who have a spouse, elderly (65+), and students majoring in public policy. By interviewing with them, I got suggestions for addressing the issue of population aging from their perspectives. 
 
 ### Part 3: Updates according to feedback from the user research and finished the deliverable via Shorthand <br />
 [Final Deliverable in shorthand](https://carnegiemellon.shorthandstories.com/Population-Aging/index.html)<br />
@@ -123,9 +123,9 @@ European countries are facing the most serious aging problems. Among the top 50 
 ### 2. Causes:<br />
 #### 2.1 Two main causes<br />
 the continued decline in fertility rates and increased life expectancy<br />
-#### 1.2 Low fertility rates situation<br />
-Decreasing the fertility rate is one of the main reasons for population aging. For the last 70 years, fertility rates have decreased by 50% worldwide. People are less willing to give birth to a baby nowadays.<br />
-#### 1.3 Reasons for the low fertility rates<br />
+#### 2.2 Low fertility rates situation<br />
+Decreased fertility rate is one of the main reasons for population aging. For the last 70 years, fertility rates have decreased by 50% worldwide. People are less willing to give birth to a baby nowadays.<br />
+#### 2.3 Reasons for the low fertility rates<br />
 According to the survey conducted by New York Times, the top 10 reasons why people don’t want to have kids are: Want Leisure time, Haven't found partner
 No desire for children, Can't afford child care, Can't afford a house, Not sure I'd be a good parent, Worried about the economy, Global instability, 
 Career Concerns<br />
@@ -135,7 +135,7 @@ Those reasons can be summarized into 3 parts: career development concerns, finan
 
 ### 3. Solutions: 
 #### 3.1 Cost of raising a kid<br />
-The cost of raising a child born in 2015 was $233,610. That assumes the child was born to a middle-income, married couple. When adjusted for inflation, the number jumps to $290,014 in 2022 dollars, based on the most recent data from the Bureau of Labor Statistics.<br />
+"The cost of raising a child born in 2015 was $233,610. That assumes the child was born to a middle-income, married couple. When adjusted for inflation, the number jumps to $290,014 in 2022 dollars, based on the most recent data from the Bureau of Labor Statistics."<br />
 Source: https://money.usnews.com/money/personal-finance/articles/how-much-does-it-cost-to-raise-a-child<br />
 
 Housing, Food, childcare & education are three aspects that a family spends most money on<br />
@@ -150,10 +150,7 @@ Provide financial assistance in Child Care & free education system<br />
 [PRB: https://www.prb.org/resources/countries-with-the-oldest-populations-in-the-world/](https://www.prb.org/resources/countries-with-the-oldest-populations-in-the-world/)<br />
 [OECD: https://data.oecd.org/pop/population.htm#indicator-chart](https://data.oecd.org/pop/population.htm#indicator-chart)<br />
 [World Population Review: https://worldpopulationreview.com/country-rankings/total-fertility-rate](https://worldpopulationreview.com/country-rankings/total-fertility-rate)<br />
-
 [The New York Times: https://www.nytimes.com/2018/07/05/upshot/americans-are-having-fewer-babies-they-told-us-why.html]( https://www.nytimes.com/2018/07/05/upshot/americans-are-having-fewer-babies-they-told-us-why.html)
-
-
 [US News: https://money.usnews.com/money/personal-finance/articles/how-much-does-it-cost-to-raise-a-child](https://money.usnews.com/money/personal-finance/articles/how-much-does-it-cost-to-raise-a-child)<br />
 [The Swedish Social Insurance Agency website: https://www.forsakringskassan.se/english/parents/housing-allowance-for-families-with-children]( https://www.forsakringskassan.se/english/parents/housing-allowance-for-families-with-children)<br />
 [United Nations: https://www.un.org/en/global-issues/ageing](https://www.un.org/en/global-issues/ageing)
