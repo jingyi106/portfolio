@@ -36,7 +36,7 @@ In part 2, I didn’t add a title and explainations to the chart
 
 In the final project, I added a title and subtitle to the chart and also included a paragraph to explain the takeaways from the visualization: <br />
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/100049171/195473526-6e9f06cb-4796-4ad2-b7f7-99d4114bec69.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/100049171/195473526-6e9f06cb-4796-4ad2-b7f7-99d4114bec69.png">
 
 
 ### Change 3: Add titles to all charts and citations to some charts if the data is from external sources (you can see them in the shorthand)<br />
