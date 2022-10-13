@@ -11,7 +11,7 @@ Pursuing a Master’s degree in business Intelligence and Data Analytics in Carn
 Data visualization software, Color theory, Design, Interpreting and presenting data, Data related presentation 
 
 ## Data Visualization
-### [Population Aging and The Social Realities Behind It](https://carnegiemellon.shorthandstories.com/population-aging-and-the-social-realities-behind-it/index.html)
+### [Population Aging: Facts, Causes, Solutions](https://carnegiemellon.shorthandstories.com/Population-Aging/index.html)
 If you are interested in my thoughs and work behind behind the scene:  <br />
 [Part1: Brainstorming and inital skeches](/Project_Population_Aging_Jingyi.md) <br />
 [Part2: Storyline creation and user research accoring to different personas](/Population_Aging.md) <br />
