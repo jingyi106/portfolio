@@ -27,7 +27,7 @@
 
 There is no elaboration after getting the conclusion that Japan is the country with the most serious aging problem, so there is no use to include that chart.<br />
 
-### 2: Add more explanations to the follwing histogram (title, source and explanations)
+### Change 2: Add more explanations to the follwing histogram (title, source and explanations)
 I listed the top 10 countries with the highest fertility rates and the top 10 countries with the lowest fertility rates. I want to show the demographic difference between those two groups, for example, most countries with the highest fertility rates are African countries while most of those with the lowest fertility rates areEuropean countries. Since European countries face the most significant population aging problems, a low fertility rate could lead to population aging. <br />
 
 In part 2, I didn’t add a title and explainations to the chart 
@@ -150,7 +150,7 @@ Provide financial assistance in Child Care & free education system<br />
 [PRB: https://www.prb.org/resources/countries-with-the-oldest-populations-in-the-world/](https://www.prb.org/resources/countries-with-the-oldest-populations-in-the-world/)<br />
 [OECD: https://data.oecd.org/pop/population.htm#indicator-chart](https://data.oecd.org/pop/population.htm#indicator-chart)<br />
 [World Population Review: https://worldpopulationreview.com/country-rankings/total-fertility-rate](https://worldpopulationreview.com/country-rankings/total-fertility-rate)<br />
-[The New York Times https://www.nytimes.com/2018/07/05/upshot/americans-are-having-fewer-babies-they-told-us-why.html](The New York Times https://www.nytimes.com/2018/07/05/upshot/americans-are-having-fewer-babies-they-told-us-why.html)<br />
+[The New York Times https://www.nytimes.com/2018/07/05/upshot/americans-are-having-fewer-babies-they-told-us-why.html (https://www.nytimes.com/2018/07/05/upshot/americans-are-having-fewer-babies-they-told-us-why.html)<br />
 [US News: https://money.usnews.com/money/personal-finance/articles/how-much-does-it-cost-to-raise-a-child](https://money.usnews.com/money/personal-finance/articles/how-much-does-it-cost-to-raise-a-child)<br />
 [The Swedish Social Insurance Agency website: https://www.forsakringskassan.se/english/parents/housing-allowance-for-families-with-children]( https://www.forsakringskassan.se/english/parents/housing-allowance-for-families-with-children)<br />
 [United Nations: https://www.un.org/en/global-issues/ageing](https://www.un.org/en/global-issues/ageing)
