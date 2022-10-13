@@ -75,13 +75,13 @@ The top 10 reasons are:
 After this step, I summarized those 10 reasons into 3 categories:
 1. Career development concerns<br />
 2. Financial pressure<br />
-3. Leisure time concerns.<br /><br />
+3. Leisure time concerns.<br />
 Career development and leisure time are more related to personal lifestyle instead of social reality. Since my audience is policymakers, for them, the cost of raising kids could be one factor to consider and take actions
 
 By analyzing the donut chart, housing, food, child care & education are 3 domains that families with children spent most money on. Suggestions are as follows:<br />
 1.	Housing allowance for families with children<br />
 2.	Free Meal Plan: Provide free or low-cost baby food for "new" parents; Conduct school lunch plan & dinner plan to reduce the food cost for families with children<br />
-3.	Provide financial assist in Child Care & free education system<br /><br />
+3.	Provide financial assist in Child Care & free education system<br />
 By analyzing the donut chart, housing, food, child care & education are the three domains that families with children spent the most money on. Suggestions are as follows:<br />
   Housing allowance for families with children<br />
   Free Meal Plan: Provide free or low-cost baby food for "new" parents; Conduct school lunch plan & dinner plan to reduce the food cost for families with     children<br />
