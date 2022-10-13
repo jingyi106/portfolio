@@ -81,7 +81,9 @@ Career development and leisure time are more related to personal lifestyle inste
 By analyzing the donut chart, housing, food, child care & education are 3 domains that families with children spent most money on. Suggestions are as follows:<br />
 1.	Housing allowance for families with children<br />
 2.	Free Meal Plan: Provide free or low-cost baby food for "new" parents; Conduct school lunch plan & dinner plan to reduce the food cost for families with children<br />
-3.	Provide financial assist in Child Care & free education system<br />
+3.	Provide financial assist in Child Care & free education system<br /><br />
+
+
 By analyzing the donut chart, housing, food, child care & education are the three domains that families with children spent the most money on. Suggestions are as follows:<br />
   a. Housing allowance for families with children<br />
   b. Free Meal Plan: Provide free or low-cost baby food for "new" parents; Conduct school lunch plan & dinner plan to reduce the food cost for families with children<br />
