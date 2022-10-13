@@ -150,7 +150,10 @@ Provide financial assistance in Child Care & free education system<br />
 [PRB: https://www.prb.org/resources/countries-with-the-oldest-populations-in-the-world/](https://www.prb.org/resources/countries-with-the-oldest-populations-in-the-world/)<br />
 [OECD: https://data.oecd.org/pop/population.htm#indicator-chart](https://data.oecd.org/pop/population.htm#indicator-chart)<br />
 [World Population Review: https://worldpopulationreview.com/country-rankings/total-fertility-rate](https://worldpopulationreview.com/country-rankings/total-fertility-rate)<br />
-[The New York Times https://www.nytimes.com/2018/07/05/upshot/americans-are-having-fewer-babies-they-told-us-why.html] (https://www.nytimes.com/2018/07/05/upshot/americans-are-having-fewer-babies-they-told-us-why.html)<br />
+
+[The New York Times: https://www.nytimes.com/2018/07/05/upshot/americans-are-having-fewer-babies-they-told-us-why.html]( https://www.nytimes.com/2018/07/05/upshot/americans-are-having-fewer-babies-they-told-us-why.html)
+
+
 [US News: https://money.usnews.com/money/personal-finance/articles/how-much-does-it-cost-to-raise-a-child](https://money.usnews.com/money/personal-finance/articles/how-much-does-it-cost-to-raise-a-child)<br />
 [The Swedish Social Insurance Agency website: https://www.forsakringskassan.se/english/parents/housing-allowance-for-families-with-children]( https://www.forsakringskassan.se/english/parents/housing-allowance-for-families-with-children)<br />
 [United Nations: https://www.un.org/en/global-issues/ageing](https://www.un.org/en/global-issues/ageing)
