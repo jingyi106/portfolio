@@ -3,7 +3,7 @@
 ## 1. Updates and changes according to the feeadback from user reaserach in part2<br />
 ## 2. Summay of my work in Part1 and Part2
 ## 3. Summary of main takeaways from this project
-## 4. Reference of this project
+## 4. Reference of this project<br /><br />
 
 
 ## 1. Updates and changes according to the feeadback from user reaserach in part2<br />
