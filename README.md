@@ -9,9 +9,9 @@ Pursuing a Master’s degree in business Intelligence and Data Analytics in Carn
 
 ## Data Science
 
-[Social Media Analysis using NLP technology] (https://github.com/jingyi106/Social-Media-Analysis-Text-Analysis)
+[Social Media Analysis using NLP technology](https://github.com/jingyi106/Social-Media-Analysis-Text-Analysis)
 
-[Machine Learning based Healthcase Analytics] (https://github.com/jingyi106/Healthcare-Analytics)
+[Machine Learning based Healthcase Analytics](https://github.com/jingyi106/Healthcare-Analytics)
 
 [911 Calls Analysis](https://github.com/jingyi106/911-Call-Analysis/blob/main/Finished_911%20Calls%20Data%20Analytics.ipynb)
 
@@ -19,7 +19,7 @@ Pursuing a Master’s degree in business Intelligence and Data Analytics in Carn
 
 [Advertisement Click Probability Prediction](https://github.com/jingyi106/Advertisement-Click-Probability-Prediction/blob/main/Advertisement%20Click%20Prediction.ipynb)
 
-[Customer Life Value Analysis] (https://github.com/jingyi106/Customer-Life-Value-Calculation)
+[Customer Life Value Analysis](https://github.com/jingyi106/Customer-Life-Value-Calculation)
 
 
 ## Data Visualization
